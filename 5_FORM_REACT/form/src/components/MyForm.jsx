@@ -25,7 +25,7 @@ const MyForm = ({ userName, userEmail }) => {
     console.log("Enviando o formulário");
     console.log(name, email, bio, role);
 
-    // validacao
+    // VALIDAÇÃO
     // envio
 
     // 7 - limpar form
